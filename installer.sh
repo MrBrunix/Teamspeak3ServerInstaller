@@ -1,0 +1,1 @@
+wget mc.unfiregames.it/ts3server.tar && echo installer by MrBrunixYT && echo aspetta 3 secondi... && sudo apt-get install tar && tar -xvf ts3server.tar && cd root/ts3server && sh ts3server_startscript.sh start
